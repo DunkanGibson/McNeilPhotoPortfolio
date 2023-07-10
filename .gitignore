@@ -1,0 +1,12 @@
+node_modules/
+dist/
+src/.prettierrc
+package-lock.json
+.env
+.DS_Store
+coverage/
+.vscode/
+.DS_Store
+node_modules
+node_modules
+node_modules/.package-lock.json
